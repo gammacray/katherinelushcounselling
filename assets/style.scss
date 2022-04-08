@@ -181,7 +181,7 @@ a {
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: #56a23b;
   }
 }
 
@@ -270,7 +270,7 @@ p > img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid #56a23b;
 
   @include mobile {
     text-align: center;
@@ -306,7 +306,7 @@ p > img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: #56a23b;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -415,7 +415,7 @@ nav {
   bottom: 0;
   width: 100%;
   height: 89px;
-  background-color: $lightGray;
+  background-color: #56a23b;
 }
 
 footer {
@@ -456,8 +456,9 @@ body:after {
 
 .page h1{
   font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  text-align: center;
-  font-weight: bold;
+  text-align: left;
+  color: #56a23b;
+  font-weight: normal;
   font-kerning: auto;
   font-feature-settings: "kern","liga","dlig","hlig","cswh";
   line-height: 1.2;
