@@ -270,7 +270,7 @@ p > img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid #56a23b;
+  border-bottom: 1px solid $darkgrey;
 
   @include mobile {
     text-align: center;
