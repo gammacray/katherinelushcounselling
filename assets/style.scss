@@ -55,7 +55,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 30px;
   a {
-    color: $darkgrey;
+    color: #323e28;
   }
 }
 
@@ -270,7 +270,7 @@ p > img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $darkgrey;
+  border-bottom: 1px solid #a9a9a9;
 
   @include mobile {
     text-align: center;
