@@ -2,6 +2,7 @@
 layout: default
 ---
 
+![](images\Tree Banner.jpg)
 
 >*I am not currently taking new clients ​and I have closed my waitlist for now. Please check back periodically for updated information if you would like to work with me.*
 
@@ -15,7 +16,9 @@ Whether you are worried about a current crisis, you are contemplating a life cha
   
 ### Katherine
 
-![](https://onepathleft.com/katherinelushcounselling/images/Kat%20Homepage.jpeg)
+
+
+![](images\Kat Homepage.jpeg)
 
 
 > "Owning our story and loving ourselves through that process is the bravest thing that we will ever do."   
